@@ -1,4 +1,6 @@
-# RIANet Implementation
+# RIANet
+
+Timothy Ha, Jeongwoo Oh, Hojun Chung, Gunmin Lee, and Songhwai Oh, "RIANet: Road Graph and Image Attention Network for Urban Autonomous Driving," in Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2022.
 
 ## Installation
 
